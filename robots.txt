@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basbaas-heritage.vercel.app/sitemap.xml
